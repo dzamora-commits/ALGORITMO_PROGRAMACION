@@ -29,4 +29,7 @@ la GPU procesa gráficos, imágenes y videos, y la
 NPU se especializa en realizar tareas de inteligencia artificial,
 como reconocer imágenes y voces.
 
+link del chat con la IA 
+https://chatgpt.com/share/6ad25370-1084-83e8-bece-1167042f8dbb
+https://chatgpt.com/share/6ad253c9-b5ec-83e9-81f6-50b8232f8625?ogimg=plain
 
