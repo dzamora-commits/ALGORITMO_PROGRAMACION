@@ -1,0 +1,32 @@
+Que es pseudocódigo y un diagrama de flujo y para que se usan en un contexto de programación?
+
+ El pseudocódigo permite describir los pasos de un algoritmo
+con palabras sencillas. El diagrama de flujo representa esos
+pasos gráficamente mediante símbolos y flechas.
+
+
+¿Qué es un algoritmo?
+ 
+ Es una serie de pasos ordenados que permiten resolver
+un problema o realizar una tarea.
+
+
+¿Cuáles son los métodos para almacenar datos en Python?
+
+ Las variables, listas, tuplas, diccionarios y conjuntos
+permiten almacenar diferentes tipos de datos.
+
+¿Quién fue Ada Lovelace?
+ 
+ Fue una matemática británica considerada una de las
+primeras programadoras de la historia.
+
+¿Qué son CPU, GPU y NPU?
+
+La CPU es el cerebro del computador y se encarga de ejecutar
+ instrucciones y realizar tareas generales,
+la GPU procesa gráficos, imágenes y videos, y la 
+NPU se especializa en realizar tareas de inteligencia artificial,
+como reconocer imágenes y voces.
+
+
